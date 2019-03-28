@@ -8,6 +8,7 @@ Incluya el script interactive.vx.x.x.js dentro de su página.
 ``` html
 <script src="interactive.v0.0.2.js"></script>
 ```
+Ver demo online, [demo](https://williamamed.github.io/)
 
 Iniciando nuestro tutorial
 ---------------
